@@ -1,4 +1,3 @@
-# dog-vs-cat-cnn
 # 🐶🐱 Dog vs Cat Image Classification (CNN)
 
 ## 📌 About the Project
